@@ -7,11 +7,11 @@ let num=101;
  {
    if (i<num)
    {  
-    //  if (num%i===0)
-    //  console.log("No");
+     if (num%i===0)
+     console.log("No");
      
-    // if (num%i!==0)
-    //  continue;
+    if (num%i!==0)
+     continue;
    }
     
 else if (num===2 || num===1)
