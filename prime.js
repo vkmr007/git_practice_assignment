@@ -7,10 +7,10 @@ let num=101;
  {
    if (i<num)
    {  
-    //  if (num%i===0)
-    //  console.log("No");
+     if (num%i===0)
+     console.log("No");
      
-    if (numgit%i!==0)
+    if (num%i!==0)
      continue;
    }
     
