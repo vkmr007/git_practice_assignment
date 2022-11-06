@@ -10,8 +10,8 @@ let num=101;
     //  if (num%i===0)
     //  console.log("No");
      
-    // if (num%i!==0)
-    //  continue;
+    if (numgit%i!==0)
+     continue;
    }
     
 else if (num===2 || num===1)
